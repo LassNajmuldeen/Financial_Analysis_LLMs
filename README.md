@@ -15,5 +15,5 @@ This project uses large language models (LLMs) to automate financial analysis. B
 - Process high volumes of articles in real-time, extracting structured insights (e.g., publisher, sentiment, related companies).
 - Classify events and sentiments for company-specific analysis.
 
-#Getting Started
+# Getting Started
 Run the project directly in Google Colab using the provided notebooks. Ensure all dependencies are installed and the API key is configured in a .env file.
